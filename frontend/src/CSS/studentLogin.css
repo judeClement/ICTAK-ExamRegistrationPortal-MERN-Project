@@ -1,0 +1,43 @@
+
+.studentlog {
+  height: 100vh;
+  background-image: linear-gradient(to right,rgba(34, 51, 0, 0.466),#006D5B);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.input {
+  width: 60%;
+  padding: 5px;
+}
+
+.login-form {
+  border: 1px solid green;
+  width: 30%;
+  height: 70%;
+  background-color: aliceblue;
+  box-shadow: 0 0 10px  rgb(38, 10, 3);
+}
+
+.input input {
+  color: #006D5B !important;
+}
+
+.input .MuiOutlinedInput-notchedOutline {
+  border-color: #006D5B !important;
+}
+
+.green-label {
+  color: #006D5B !important;
+}
+
+.logimage{
+  width: 120px;
+  margin-top: 5px;
+}
+
+
