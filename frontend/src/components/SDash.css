@@ -1,0 +1,23 @@
+
+
+body{
+ 
+    background-image: linear-gradient(#005F60,#249ea0,#008083,#005f60);
+    background-image: linear-gradient(#008083,white,#005f60); 
+  
+  
+
+  
+
+}
+.teel{
+    background-image: linear-gradient(#006d5b,#93E9BE); 
+    /* background-image: linear-gradient(grey,#008083,grey); */
+}
+
+#outlined-basic{
+    color: white !important;
+}
+.text{
+    color: white !important;
+}
