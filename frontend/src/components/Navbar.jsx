@@ -82,39 +82,5 @@ export default Navbar;
 
 
 
-// <AppBar position="static" sx={{ bgcolor: 'yellow' }}>
-// <Toolbar>
-//     <Typography variant="h6" style={{ flexGrow: 1, textDecoration: 'none', color: 'orange' }}>
-//         ICTAK Exam Registration Portal
-//     </Typography>
-//     <Button sx={{ color: 'orange' }}>Login</Button>
-//     <Button sx={{color: 'orange' }}>Home</Button>
-//     <Button sx={{ color: 'orange' }}>About</Button>
-//     <Button sx={{ color: 'orange' }}>Contact</Button>
-//     <Button sx={{ color: 'orange', marginLeft: 'auto' }}>Login</Button>
-// </Toolbar>
-// </AppBar>
 
 
-{/* <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"   style={{ backgroundColor: 'darkblue',color: 'white',borderRadius: '18px',textAlign: 'center'}}>
-COURSES
-</button>
-<ul class="dropdown-menu">
-<li><a class="dropdown-item" href="#">Action</a></li>
-<li><a class="dropdown-item" href="#">Another action</a></li>
-<li><a class="dropdown-item" href="#">Something else here</a></li>
-</ul> */}
-
-
-{/* <MDBNavbarItem>
-<MDBDropdown>
-  <MDBDropdownToggle tag='a' className='nav-link' role='button'>
-    Dropdown
-  </MDBDropdownToggle>
-  <MDBDropdownMenu>
-    <MDBDropdownItem link>Action</MDBDropdownItem>
-    <MDBDropdownItem link>Another action</MDBDropdownItem>
-    <MDBDropdownItem link>Something else here</MDBDropdownItem>
-  </MDBDropdownMenu>
-</MDBDropdown>
-</MDBNavbarItem> */}
